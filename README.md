@@ -46,10 +46,4 @@ Each service runs independently.
 
 ---
 
-## Author
-
-**Mridang**
-GitHub: [https://github.com/mridang07](https://github.com/mridang07)
-
----
 
